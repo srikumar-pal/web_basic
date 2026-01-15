@@ -4,6 +4,8 @@ A modern, colorful, and fully responsive personal portfolio website built using 
 This project showcases clean UI design, smooth animations, and professional frontend features suitable for internships, jobs, and freelancing profiles.
 
 ---
+https://srikumar-pal.github.io/web_basic/
+
 
 ## ✨ Features
 
